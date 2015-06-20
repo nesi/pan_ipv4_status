@@ -9,7 +9,7 @@
 #git checkout --orphan gh-pages
 #```
 #Now we have a documentation branch we can created documentation in, and check into git.
-#Git will make this available at http://nesi.github.io/pan_ip_switchtopology/
+#Git will make this available at http://nesi.github.io/pan_ipv4_status/
 #
 /usr/local/bin/yard doc *.rb rlib/*.rb bin/*.rb --output-dir docs #Generate the documentation.
 
