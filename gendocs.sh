@@ -4,7 +4,7 @@
 #mkdir ../docs #Which is in a pan_ip_switchtopology_proj parent directory, along with the pan_ip_switch_topology repo directory.
 #cd ../docs
 #git init
-#git remote add origin git@github.com:nesi/pan_ip_switchtopology.git
+#git remote add origin git@github.com:nesi/pan_ipv4_status.git
 #git fetch origin
 #git checkout --orphan gh-pages
 #```
