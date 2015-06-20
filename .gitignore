@@ -1,0 +1,9 @@
+conf/
+tmp/
+doc/
+.yardoc/
+.DS_Store
+generators/.DS_Store
+rlib/.DS_Store
+www/.DS_Store
+www/*.json
