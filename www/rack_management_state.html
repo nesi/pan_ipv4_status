@@ -9,8 +9,8 @@
            var page_header='Management IPV4 Ping State'
   </script>
 
-  <script src="http://xcat.ceres.auckland.ac.nz/rgraph/libraries/RGraph.common.core.js" ></script>
-  <script src="http://xcat.ceres.auckland.ac.nz/rgraph/jquery.min.js"></script>
+  <script src="/rgraph/libraries/RGraph.common.core.js" ></script>
+  <script src="/rgraph/jquery.min.js"></script>
 
   <style type="text/css">
   table.rack {
@@ -114,8 +114,8 @@
             the_cell.style.borderColor = 'white';
             break;
           case 'fault':
-            the_cell.style.backgroundColor = '#FF0000'; //red
-            the_cell.style.borderColor = 'white';
+            the_cell.style.backgroundColor = '#920000'; //red
+            the_cell.style.borderColor = '#FF0000';
             break;
           case 'unexpected': //didn't expect there to be data
             the_cell.style.backgroundColor = '#0000FF'; //blue
