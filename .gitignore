@@ -7,3 +7,5 @@ generators/.DS_Store
 rlib/.DS_Store
 www/.DS_Store
 www/*.json
+www/rgraph
+
